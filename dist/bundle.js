@@ -13153,13 +13153,9 @@
                             className: "iconfont icon-gmail"
                         }), "联系邮箱:"), "qian6841@126.com"), u.default.createElement("dd", null, u.default.createElement("span", null, u.default.createElement("i", {
                             className: "iconfont icon-wodeboke"
-                        }), "blog:"), u.default.createElement("a", {
-                            href: "http://www.cnblogs.com"
-                        }, "http://www.cnblogs.com")), u.default.createElement("dd", null, u.default.createElement("span", null, u.default.createElement("i", {
-                            className: "iconfont icon-github"
                         }), "github:"), u.default.createElement("a", {
                             href: "https://github.com"
-                        }, "https://github.com/xiaohuazai")), u.default.createElement("dd", null, u.default.createElement("span", null, u.default.createElement("i", {
+                        }, "https://15890666841.github.io/jianli/")), u.default.createElement("dd", null, u.default.createElement("span", null, u.default.createElement("i", {
                             className: "iconfont icon-markdown"
                         }), "Markdown笔记:"), u.default.createElement("a", {
                             href: "https://xiaohuazai.github.io/"
