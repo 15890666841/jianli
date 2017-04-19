@@ -13171,6 +13171,8 @@
                             className: "skill"
                         }, u.default.createElement("ul", null, u.default.createElement("li", {
                             className: "primary"
+                        }, "PHP"), u.default.createElement("li", {
+                            className: "primary"
                         }, "Javascript"), u.default.createElement("li", {
                             className: "primary"
                         }, "jQuery"), u.default.createElement("li", {
@@ -13187,21 +13189,21 @@
                             className: "secondary"
                         }, "laravel"), u.default.createElement("li", {
                             className: "secondary"
+                        }, "git"), u.default.createElement("li", {
+                            className: "secondary"
                         }, "linux"), u.default.createElement("li", {
                             className: "secondary"
                         }, "WebApp"), u.default.createElement("li", {
                             className: "secondary"
                         }, "微信开发"), u.default.createElement("li", {
                             className: "know"
-                        }, "weex"), u.default.createElement("li", {
-                            className: "know"
-                        }, "node.js"), u.default.createElement("li", {
-                            className: "know"
-                        }, "express"))))), u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
+                        }, "node.js"))))), u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
                             className: "iconfont icon-biaoti"
                         }), "技能详解"), u.default.createElement("dd", {
                             className: "detail-skill"
                         }, u.default.createElement("ul", null, u.default.createElement("li", null, u.default.createElement("div", {
+                            className: "round"
+                        }),u.default.createElement("h4", null, "PHP"), u.default.createElement("p", null, "使用PHP完成表单的接收，生成动态网页，发送或接收Cookies等。")), u.default.createElement("li", null, u.default.createElement("div", {
                             className: "round"
                         }),u.default.createElement("h4", null, "Javascript"), u.default.createElement("p", null, "熟悉原生的Javascript，对原型，原型链，对象，闭包等都有一定的了解。能脱离jQuery等库编写一些常见的功能，如轮播图，瀑布流，购物车等等。")), u.default.createElement("li", null, u.default.createElement("div", {
                             className: "round"
