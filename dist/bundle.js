@@ -13141,7 +13141,7 @@
                             className: "index"
                         }, u.default.createElement("ul", null, u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
                             className: "iconfont icon-biaoti"
-                        }), "基本信息"), u.default.createElement("dd", null, u.default.createElement("span", null, "个人信息:"), "梁倩倩 / 女 / 23岁"), u.default.createElement("dd", null, u.default.createElement("span", null, "个人专业:"), "计算机网络技术"), u.default.createElement("dd", null, u.default.createElement("span", null, "毕业院校:"), "河南职业技术学院"), u.default.createElement("dd", null, u.default.createElement("span", null, "应聘岗位:"), "PHP工程师"), u.default.createElement("dd", null, u.default.createElement("span", null, "现居住地:"), "北京市昌平区"), u.default.createElement("dd", null, u.default.createElement("span", null, "目前情况:"), "可随时到岗"))), u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
+                        }), "基本信息"), u.default.createElement("dd", null, u.default.createElement("span", null, "个人信息:"), "梁倩倩 / 女 / 23岁"), u.default.createElement("dd", null, u.default.createElement("span", null, "个人专业:"), "计算机网络技术"), u.default.createElement("dd", null, u.default.createElement("span", null, "毕业院校:"), "河南职业技术学院"), u.default.createElement("dd", null, u.default.createElement("span", null, "应聘岗位:"), "PHP程序员"), u.default.createElement("dd", null, u.default.createElement("span", null, "现居住地:"), "北京"), u.default.createElement("dd", null, u.default.createElement("span", null, "目前情况:"), "可随时到岗"))), u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
                             className: "iconfont icon-biaoti"
                         }), "联系方式"), u.default.createElement("dd", null, u.default.createElement("span", null, u.default.createElement("i", {
                             className: "iconfont icon-phone"
@@ -13191,9 +13191,7 @@
                             className: "secondary"
                         }, "WebApp"), u.default.createElement("li", {
                             className: "secondary"
-                        }, "微信开发"), u.default.createElement("li", {
-                            className: "know"
-                        }, "node.js"))))), u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
+                        }, "微信公众号"))))), u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
                             className: "iconfont icon-biaoti"
                         }), "技能详解"), u.default.createElement("dd", {
                             className: "detail-skill"
