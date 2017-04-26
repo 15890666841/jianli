@@ -13203,6 +13203,8 @@
                             className: "round"
                         }), u.default.createElement("h4", null, "jQuery"), u.default.createElement("p", null, "熟悉jQ的用法，能使用jQuery快速完成常见功能的开发。")), u.default.createElement("li", null, u.default.createElement("div", {
                             className: "round"
+                        }), u.default.createElement("h4", null, "Ajax"), u.default.createElement("p", null, "熟悉Ajax的用法，实现页面的无刷新请求服务，提高用户体验。")), u.default.createElement("li", null, u.default.createElement("div", {
+                            className: "round"
                         }), u.default.createElement("h4", null, "HTML5 / CSS3 "), u.default.createElement("p", null, "能够编写语义化的HTML，熟练运用div+css 浮动布局，flexbox 弹性布局。"), u.default.createElement("p", null, "熟悉SCSS书写，gulp，webpack自动化工具的运用，进行模块化开发。")), u.default.createElement("li", null, u.default.createElement("div", {
                             className: "round"
                         }), u.default.createElement("h4", null, "Bootstrap"), u.default.createElement("p", null, "熟悉Bootstrap框架，使用栅格系统，媒体查询，Bootstrap组件，来完成响应式的页面开发。")), u.default.createElement("li", null, u.default.createElement("div", {
