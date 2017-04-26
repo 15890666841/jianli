@@ -13053,7 +13053,7 @@
                     key: "render",
                     value: function () {
                         return u.default.createElement("div", null, u.default.createElement("header", null, u.default.createElement("img", {
-                            src: "http://omfmbv825.bkt.clouddn.com/2_02.png",
+                            // src: "http://omfmbv825.bkt.clouddn.com/2_02.png",
                             alt: "person img",
                             className: "person"
                         }), u.default.createElement("h1", null, "梁倩倩的个人", this.props.title), u.default.createElement("label", {
