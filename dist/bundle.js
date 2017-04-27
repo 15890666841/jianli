@@ -13156,11 +13156,11 @@
                             className: "iconfont icon-wodeboke"
                         }), "github:"), u.default.createElement("a", {
                             href: "https://github.com"
-                        }, "https://15890666841.github.io/jianli/")), u.default.createElement("dd", null, u.default.createElement("span", null, u.default.createElement("i", {
+                        }, "https://github.com/15890666841")), u.default.createElement("dd", null, u.default.createElement("span", null, u.default.createElement("i", {
                             className: "iconfont icon-markdown"
                         }), "Markdown笔记:"), u.default.createElement("a", {
-                            href: "https://xiaohuazai.github.io/"
-                        }, "https://xiaohuazai.github.io/")), u.default.createElement("dd", null, u.default.createElement("a", {
+                            href: "https://github.com/15890666841/MarkDown.git"
+                        }, "https://github.com/15890666841/MarkDown.git")), u.default.createElement("dd", null, u.default.createElement("a", {
                             href: ""
                         }, "")))), u.default.createElement("li", null, u.default.createElement("dl", null, u.default.createElement("dt", null, u.default.createElement("i", {
                             className: "iconfont icon-biaoti"
@@ -13298,9 +13298,7 @@
                         }), "简介"), u.default.createElement(c.Link, {
                             to: "/product",
                             activeClassName: "leftNav-active"
-                        }, u.default.createElement("i", {
-                            className: "iconfont icon-zuopinanli"
-                        }), "作品"))
+                        }))
                     }
                 }]), t
             }(u.default.Component);
